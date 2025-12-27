@@ -1,80 +1,78 @@
 # Hi there, I'm Thomas Vincent 👋
 
-## DevOps Engineer | Infrastructure Architect | Open Source Contributor
+## Senior DevOps Engineer | Platform Engineering | Open to Opportunities
 
-I'm a DevOps Engineer passionate about building robust and scalable infrastructure. When I'm not wrangling code, I'm likely deciphering family trees or rescuing dogs.
+DevOps Engineer with 25+ years building developer-centric infrastructure. Expert in reducing deployment friction through IaC standardization, CI/CD pipeline optimization, and self-service platform tooling. Track record of measurable cost reduction, reliability improvements, and operational simplification across AWS-heavy environments.
 
-### 🔧 What I Do
+**🎯 Currently seeking Senior/Staff DevOps or Platform Engineering roles.**
 
-- **Infrastructure as Code**: Terraform, CloudFormation, Ansible
-- **Cloud Platforms**: AWS, Cloudflare, DigitalOcean
-- **Automation**: Systems automation, CI/CD, configuration management
-- **Security**: Infrastructure security, compliance automation, monitoring
-- **DevOps**: Building scalable, reliable infrastructure solutions
+---
 
-### 🛠️ Technical Skills
+### 🛠️ Core Competencies
 
 ```text
-Languages:       Python, Shell, Ruby, Perl, Go, Rust
-IaC Tools:       Terraform, Ansible, Chef, Puppet
-Cloud:           AWS (SSM, EC2, VPC), Cloudflare, DigitalOcean
-Monitoring:      Nagios, Zabbix, SNMP, Prometheus
-CI/CD:           GitHub Actions, Jenkins, GitLab CI
-Containers:      Docker, Kubernetes
-Databases:       MariaDB, MySQL, PostgreSQL
-Web Servers:     Nginx, Apache, HAProxy
+IaC/GitOps:      Terraform (modules, workspaces, state mgmt) • Ansible • Helm • ArgoCD
+CI/CD:           GitHub Actions • Jenkins • GitLab CI • Spinnaker
+Containers:      Kubernetes • EKS/ECS • Docker • Container Security
+Cloud:           AWS (deep) • GCP • Azure • Cloudflare
+Observability:   Prometheus • Grafana • Nagios • Zabbix • Structured Logging
+Security:        SOX Compliance • Infrastructure Hardening • Secret Management
+Languages:       Python • Shell/Bash • Go • Ruby
 ```
 
 ### 🚀 Featured Projects
 
-#### Infrastructure & Automation
-- **[terraform-cloudflare-maintenance](https://github.com/thomasvincent/terraform-cloudflare-maintenance)** - Enterprise-grade maintenance mode solution with IP allowlisting and scheduled windows
-- **[aws-ssm-automation-scripts](https://github.com/thomasvincent/aws-ssm-automation-scripts)** - Production-ready AWS Systems Manager automation documents for infrastructure management
-- **[ansible-wordpress-enterprise](https://github.com/thomasvincent/ansible-wordpress-enterprise)** - Production-ready Ansible role for deploying WordPress at scale
+#### Infrastructure as Code
+- **[terraform-cloudflare-maintenance](https://github.com/thomasvincent/terraform-cloudflare-maintenance)** — Enterprise maintenance mode with IP allowlisting, scheduled windows, multi-language support. Includes Terraform tests, CI/CD, pre-commit hooks.
+- **[gitops-infrastructure-demo](https://github.com/thomasvincent/gitops-infrastructure-demo)** — Reference architecture: ArgoCD + Helm + Terraform demonstrating GitOps patterns for Kubernetes deployments.
+- **[aws-ssm-automation-scripts](https://github.com/thomasvincent/aws-ssm-automation-scripts)** — Production-ready SSM automation documents for patching, compliance, and operational workflows.
 
-#### Security & Monitoring
-- **[cloudflare-ufw-sync](https://github.com/thomasvincent/cloudflare-ufw-sync)** - Automated synchronization of Cloudflare IP ranges with UFW firewall rules
-- **[snmp-bind9-statistics](https://github.com/thomasvincent/snmp-bind9-statistics)** - SNMP monitoring agent for BIND9 DNS servers
-
-#### System Utilities
-- **[grub-kernel-updater](https://github.com/thomasvincent/grub-kernel-updater)** - Automated GRUB kernel management for Linux systems
+#### Platform & Automation
+- **[ansible-wordpress-enterprise](https://github.com/thomasvincent/ansible-wordpress-enterprise)** — Production Ansible role for WordPress at scale with HA, security hardening, and performance tuning.
+- **[cloudflare-ufw-sync](https://github.com/thomasvincent/cloudflare-ufw-sync)** — Automated IP range synchronization reducing security drift and manual overhead.
+- **[snmp-bind9-statistics](https://github.com/thomasvincent/snmp-bind9-statistics)** — SNMP monitoring agent for BIND9 DNS servers with Nagios/Zabbix integration.
 
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomasvincent&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-### 🌱 Currently Working On
+### 🌱 Current Focus
 
-- Modernizing infrastructure automation tools
-- Contributing to open source DevOps projects
-- Building scalable cloud-native solutions
+- Building GitOps reference architectures (ArgoCD, Flux, Helm)
+- Platform engineering patterns for developer self-service
+- Kubernetes operator development
+- Contributing to infrastructure automation tooling
 
-### 📫 How to Reach Me
+### 💼 Career Highlights
 
-- **Location**: San Francisco, California, USA
-- **Company**: Relenz, LLC
-- **GitHub**: [@thomasvincent](https://github.com/thomasvincent)
+- Migrated enterprise AWS infrastructure from CloudFormation → Terraform, improving delivery speed and reviewability
+- Reduced cloud costs ~50% through right-sizing, automation, and operational optimization
+- Led monitoring platform implementations spanning 10k+ servers across 50+ locations
+- Built CI/CD pipelines reducing deployment cycle times by 50%
+- SOX compliance automation for regulated environments
 
-### 💡 Interests
+### 📫 Connect
 
-- 🏗️ Infrastructure Architecture & Scalability
-- 🔒 Security & Compliance Automation
-- 🤖 DevOps Best Practices & Tools
-- 🌳 Genealogy & Family History Research
-- 🐕 Dog Rescue & Animal Welfare
+- **Location**: San Francisco Bay Area, CA
+- **Email**: thomasvincent@gmail.com
+- **LinkedIn**: [linkedin.com/in/thomasvincent](https://linkedin.com/in/thomasvincent)
+- **Status**: Open to opportunities — Senior/Staff DevOps, Platform Engineering, SRE
 
-### 📈 Contribution Activity
+### 💡 Beyond Code
 
-I'm actively maintaining and contributing to various infrastructure automation and DevOps projects. Check out my repositories to see what I'm working on!
-
----
-
-💼 **Professional Focus**: Building reliable, secure, and scalable infrastructure solutions that help teams ship faster and safer.
-
-🔐 **Security First**: All my public repositories follow security best practices with Dependabot, secret scanning, and regular updates.
-
-📚 **Community**: I believe in giving back to the open source community through code, documentation, and knowledge sharing.
+- 🏃 USATF Track & Field Coach — Youth mentorship and meet operations
+- 🐕 Animal Rescue — Logistics, transport, fostering
+- 🌳 Genealogy Research — Tracing family history across centuries
+- 👥 Community Building — Founded/admin of 1,500-member alumni network
 
 ---
 
-*This profile is a living document - check back often to see what I'm building!*
+💼 **What I Bring**: Deep infrastructure expertise combined with a developer-experience mindset. I build platforms that reduce cognitive load and help teams ship faster.
+
+🔐 **Security Posture**: All repositories include Dependabot, secret scanning, pre-commit hooks, and security-focused CI/CD.
+
+📚 **Philosophy**: Infrastructure should be boring in the best way — reliable, predictable, and self-healing.
+
+---
+
+*Open to conversations about DevOps, Platform Engineering, or interesting infrastructure challenges.*

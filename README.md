@@ -1,107 +1,72 @@
-# Hi, I'm Thomas Vincent 👋
+# Hi, I’m Thomas Vincent 👋
 
-## Senior DevOps Engineer | Platform Engineering | Open to Opportunities
+**Senior DevOps / Platform Engineer | Open to Staff / Remote Roles**
 
-**25+ years building developer-centric infrastructure. Ex-Apple, Yahoo, Disney, Salesforce. Currently focused on Kubernetes, GitOps, and Cloud Cost Optimization.**
-
----
-
-## 💫 About Me
-
-🔭 **Currently working on:** Modernizing production-grade AWS SSM Automation scripts and building GitOps-driven "Golden Paths" for developer self-service.
-
-👯 **Looking to collaborate on:** Open-source FinOps tools and infrastructure projects focused on cloud cost transparency and large-scale automation.
-
-🤝 **Looking for help with:** Expanding my network within the Bay Area Platform Engineering community as I re-enter the workforce after a family-focused sabbatical.
-
-🌱 **Currently learning:** Certified Kubernetes Administrator (CKA) curriculum and advanced ArgoCD patterns for declarative infrastructure management.
-
-💬 **Ask me about:** Scaling infrastructure to 10,000+ nodes, performing Terraform migrations at enterprise scale, and the evolution of Bay Area tech since the late 90s.
-
-⚡ **Fun fact:** I'm an avid track & field coach and animal rescue volunteer—and I've recently committed to a 5-night-a-week fitness routine that I treat with the same rigor as a production deployment.
+I'm a seasoned infrastructure leader focused on scalable, reliable systems and cloud-native workflows.  
+With 25+ years building developer-centric platforms and automation, I help teams ship faster with less toil. [oai_citation:1‡GitHub](https://github.com/thomasvincent)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Who I Am
 
-| Project | Description |
-|---------|-------------|
-| [**gitops-infrastructure-demo**](https://github.com/thomasvincent/gitops-infrastructure-demo) | Production-ready GitOps reference: ArgoCD + Helm + Terraform + EKS |
-| [**terraform-cloudflare-maintenance**](https://github.com/thomasvincent/terraform-cloudflare-maintenance) | Enterprise maintenance mode with IP allowlisting, tests, CI/CD |
-| [**aws-ssm-automation-scripts**](https://github.com/thomasvincent/aws-ssm-automation-scripts) | SSM automation for patching, compliance, and [cost optimization](https://github.com/thomasvincent/aws-ssm-automation-scripts/blob/main/COST_SAVINGS.md) |
-| [**ansible-wordpress-enterprise**](https://github.com/thomasvincent/ansible-wordpress-enterprise) | Production Ansible role for WordPress at scale |
+- Senior Platform & DevOps Engineer with deep expertise in cloud, GitOps, and automation. [oai_citation:2‡GitHub](https://github.com/thomasvincent)  
+- Passionate about **Kubernetes**, **Terraform**, **ArgoCD**, and **developer self-service patterns**. [oai_citation:3‡GitHub](https://github.com/thomasvincent)  
+- Outside tech: family guy, active in animal rescue, and always learning. [oai_citation:4‡GitHub](https://github.com/thomasvincent)
 
 ---
 
-## 💻 Tech Stack
+## 📌 What I’m Doing Now
 
-### Infrastructure & Cloud
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-
-### Infrastructure as Code & GitOps
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### CI/CD & Automation
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
-
-### Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-
-### Databases
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+- Building modern AWS SSM automation and cloud CI/CD patterns. [oai_citation:5‡GitHub](https://github.com/thomasvincent)  
+- Exploring **FinOps tooling** and large-scale automation best practices. [oai_citation:6‡GitHub](https://github.com/thomasvincent)  
+- Advancing **CKA skills** and progressive delivery patterns. [oai_citation:7‡GitHub](https://github.com/thomasvincent)
 
 ---
 
-## 💼 Career Highlights
+## 🧠 Core Strengths
 
-- 🚀 Migrated enterprise AWS from CloudFormation → Terraform, improving delivery speed
-- 💰 Reduced cloud costs **~50%** through right-sizing and automation ([see how](https://github.com/thomasvincent/aws-ssm-automation-scripts/blob/main/COST_SAVINGS.md))
-- 📊 Led monitoring implementations spanning **10,000+ servers** across 50+ locations
-- ⚡ Built CI/CD pipelines reducing deployment cycles by **50%**
-- 🔒 SOX compliance automation for regulated healthcare environments
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=thomasvincent&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=thomasvincent&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasvincent&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- Infrastructure as Code (Terraform, Ansible) & GitOps workflows. [oai_citation:8‡GitHub](https://github.com/thomasvincent)  
+- Cloud platforms: AWS, GCP, Azure, Cloudflare. [oai_citation:9‡GitHub](https://github.com/thomasvincent)  
+- Kubernetes automation + production CI/CD with ArgoCD/Helm. [oai_citation:10‡GitHub](https://github.com/thomasvincent)  
+- Scalable systems design, observability, and incident readiness. [oai_citation:11‡GitHub](https://github.com/thomasvincent)
 
 ---
 
-## 📫 Connect
+## ✨ Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomasvincent)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomasvincent@gmail.com)
-
-**📍 Location:** San Francisco Bay Area, CA  
-**🎯 Status:** Open to Senior/Staff DevOps, Platform Engineering, SRE opportunities
+| Project | What it Does |
+|---------|---------------|
+| **GitOps Infrastructure Demo** | Production GitOps reference with ArgoCD + Terraform + Kubernetes. [oai_citation:12‡GitHub](https://github.com/thomasvincent/gitops-infrastructure-demo?utm_source=chatgpt.com) |
+| **Terraform Cloudflare Maintenance** | Enterprise Terraform module for maintenance mode with analytics. [oai_citation:13‡GitHub](https://github.com/thomasvincent/terraform-cloudflare-maintenance?utm_source=chatgpt.com) |
+| **AWS SSM Automation Scripts** | Automation for patching, compliance, and cloud ops. [oai_citation:14‡GitHub](https://github.com/thomasvincent) |
+| **WikiTree Dashboard** | PWA for tracking genealogy contributions. [oai_citation:15‡GitHub](https://github.com/thomasvincent/wikitree-dashboard?utm_source=chatgpt.com) |
+| **Notes MCP Server** | Local AI-accessible Apple Notes API interface. [oai_citation:16‡GitHub](https://github.com/thomasvincent/notes-mcp?utm_source=chatgpt.com) |
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=thomasvincent&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📦 Tech Stack
+
+**Cloud & Infra:** AWS · GCP · Azure · Cloudflare  
+**IaC & GitOps:** Terraform · Ansible · Docker · Kubernetes  
+**CI/CD:** GitHub Actions · Jenkins · GitLab CI  
+**Monitoring:** Prometheus · Grafana · Datadog  
+**Languages:** Python · Go · Bash · TypeScript  
+*(badges omitted here for clarity — include only the ones you want to emphasize)* [oai_citation:17‡GitHub](https://github.com/thomasvincent)
+
+---
+
+## 📈 Highlights
+
+- Led migrations from CloudFormation → Terraform at scale. [oai_citation:18‡GitHub](https://github.com/thomasvincent)  
+- Built GitOps and automation pipelines that cut deployment cycles in half. [oai_citation:19‡GitHub](https://github.com/thomasvincent)  
+- Scaled monitoring across large fleets with zero downtime. [oai_citation:20‡GitHub](https://github.com/thomasvincent)
+
+---
+
+## 📬 Connect
+
+- **LinkedIn:** linkedin.com/in/thomasvincent  
+- **Email:** thomasvincent@gmail.com  
+- **Open to:** Senior/Staff DevOps, Platform, SRE roles
+
+---

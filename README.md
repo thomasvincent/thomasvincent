@@ -2,6 +2,8 @@
 
 I build and fix infrastructure for a living. Mostly working with Kubernetes, Terraform, and AWS these days. I like automating things that shouldn't require human intervention and making systems that don't wake people up at 3am.
 
+I use AI tools the way I use any good tool — to sharpen work I've already done. I write my own code, iterate on it in my home lab until it works, and then use AI to review and polish before I put it out in the world. The thinking and architecture are mine; AI helps me catch what I'd miss on a solo project where there's nobody else to keep me honest.
+
 ## What I'm tinkering with lately
 
 I've been exploring GitOps patterns with ArgoCD and building out some SSM automation for AWS patching workflows. Also working through Kubernetes certifications and learning more about FinOps — turns out optimizing cloud spend at scale is actually pretty interesting.
